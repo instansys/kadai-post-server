@@ -1,0 +1,21 @@
+{
+  "name": "kadai-post-server",
+  "version": "1.0.0",
+  "description": "GraphQL server for mini blog dashboard",
+  "type": "module",
+  "main": "api/graphql.js",
+  "scripts": {
+    "dev": "node server.js",
+    "test": "node test/test-queries.js"
+  },
+  "dependencies": {
+    "@apollo/server": "^4.10.0",
+    "graphql": "^16.8.1"
+  },
+  "devDependencies": {
+    "node-fetch": "^2.7.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
