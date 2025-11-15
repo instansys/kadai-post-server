@@ -1,5 +1,7 @@
 # バックエンド実装について（フロントエンド応募者向け情報）
 
+**GitHub リポジトリ**: https://github.com/instansys/kadai-post-server
+
 ## GraphQL サーバー
 
 フロントエンド課題用のGraphQLサーバーを用意しています。認証は不要で、すぐに利用できます。
@@ -174,7 +176,7 @@ Vercelへのアクセスに問題がある場合、ローカルサーバーを�
 
 ```bash
 # サーバーリポジトリをクローン
-git clone <repository-url>
+git clone https://github.com/instansys/kadai-post-server.git
 cd kadai-post-server
 
 # 起動

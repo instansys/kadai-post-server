@@ -1,5 +1,7 @@
 # フロントエンドエンジニア向け GraphQL API 利用ガイド
 
+**GitHub リポジトリ**: https://github.com/instansys/kadai-post-server
+
 ## GraphQL エンドポイント
 
 ```
@@ -487,7 +489,7 @@ Vercelのデプロイメント保護が有効な場合、ローカルでサー�
 
 ```bash
 # サーバーリポジトリをクローン
-git clone <repository-url>
+git clone https://github.com/instansys/kadai-post-server.git
 cd kadai-post-server
 
 # 依存関係をインストール

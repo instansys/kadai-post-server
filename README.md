@@ -2,6 +2,9 @@
 
 フロントエンド/フルスタック採用課題用のGraphQLサーバーです。
 
+**GitHub**: https://github.com/instansys/kadai-post-server
+**Vercel**: https://kadai-post-server-o8swk2av3-instansys.vercel.app/api/graphql
+
 ## 使用技術
 
 - Node.js (v18以上)
